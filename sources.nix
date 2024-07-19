@@ -9,7 +9,7 @@
   };
   sf-mono = {
     url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg";
-    hash = "sha256-tZHV6g427zqYzrNf3wCwiCh5Vjo8PAai9uEvayYPsjM=";
+    hash = "sha256-Uarx1TKO7g5yVBXAx6Yki065rz/wRuYiHPzzi6cTTl8=";
   };
   sf-arabic = {
     url = "https://devimages-cdn.apple.com/design/resources/download/SF-Arabic.dmg";
